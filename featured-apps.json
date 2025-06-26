@@ -1,0 +1,90 @@
+{
+  "endpoint": "/api/v1/featured",
+  "title": "Editor's Choice: Top Secure Apps",
+  "resultCount": 5,
+  "results": [
+    {
+      "id": "111111111",
+      "bundleId": "com.aegis.signalprime",
+      "name": "Signal Prime Messenger",
+      "developerName": "Aegis Foundation",
+      "iconUrl": "https://placehold.co/512x512/2c3e50/ffffff?text=S'",
+      "price": 0.00,
+      "currency": "NGN",
+      "primaryGenre": "Social Networking",
+      "featureBannerUrl": "https://placehold.co/1920x1080/2c3e50/ffffff?text=Signal+Prime",
+      "tagline": "Absolute Privacy, Uncompromised.",
+      "description": "End-to-end encrypted messaging with a focus on absolute privacy. Powered by the Signal Protocol, Prime offers anonymous sign-up, sealed sender technology, and self-destructing messages. No ads, no trackers, no compromises.",
+      "averageUserRating": 4.9,
+      "userRatingCount": 250123
+    },
+    {
+      "id": "222222222",
+      "bundleId": "com.cypher.torusbrowser",
+      "name": "Torus Browser (Onion)",
+      "developerName": "Cypherpunks Collective",
+      "iconUrl": "https://placehold.co/512x512/8e44ad/ffffff?text=T",
+      "price": 0.00,
+      "currency": "NGN",
+      "primaryGenre": "Utilities",
+      "featureBannerUrl": "https://placehold.co/1920x1080/8e44ad/ffffff?text=Torus+Browser",
+      "tagline": "Browse Without a Trace.",
+      "description": "Browse the internet with maximum anonymity. Torus routes your traffic through the Tor network, blocking trackers and resisting surveillance. Features multi-layer encryption and bridges for censored networks.",
+      "averageUserRating": 4.7,
+      "userRatingCount": 95432
+    },
+    {
+      "id": "333333333",
+      "bundleId": "com.vaultwarden.passkey",
+      "name": "Vaultwarden Passkeys",
+      "developerName": "Bitwarden OSS Community",
+      "iconUrl": "https://placehold.co/512x512/2980b9/ffffff?text=V",
+      "price": 0.00,
+      "currency": "NGN",
+      "primaryGenre": "Utilities",
+      "featureBannerUrl": "https://placehold.co/1920x1080/2980b9/ffffff?text=Vaultwarden",
+      "tagline": "Your Secure Digital Vault.",
+      "description": "A secure and open-source password manager. Store all your logins, passkeys, and secure notes in an encrypted vault. Features autofill, password generation, and security audits. Your data is zero-knowledge encrypted.",
+      "averageUserRating": 4.8,
+      "userRatingCount": 78991
+    },
+    {
+      "id": "888888888",
+      "bundleId": "com.mullvad.vpnplus",
+      "name": "Mullvad VPN+",
+      "developerName": "Mullvad VPN AB",
+      "iconUrl": "https://placehold.co/512x512/d35400/ffffff?text=M",
+      "price": 0.00,
+      "currency": "NGN",
+      "primaryGenre": "Utilities",
+      "featureBannerUrl": "https://placehold.co/1920x1080/d35400/ffffff?text=Mullvad+VPN",
+      "tagline": "Privacy is a Universal Right.",
+      "description": "A trustworthy VPN that puts your privacy first. We don't keep activity logs and don't require personal information to create an account. Pay with cash or crypto for full anonymity. Audited and proven.",
+      "averageUserRating": 4.7,
+      "userRatingCount": 88123,
+      "inAppPurchases": [
+        {
+          "purchaseId": "mullvad_1_month",
+          "name": "1 Month of Service",
+          "price": 4800.00,
+          "currency": "NGN"
+        }
+      ]
+    },
+    {
+      "id": "555555555",
+      "bundleId": "com.cryptomator.vault",
+      "name": "Cryptomator Vault",
+      "developerName": "Skymatic GmbH",
+      "iconUrl": "https://placehold.co/512x512/f39c12/ffffff?text=C",
+      "price": 8500.00,
+      "currency": "NGN",
+      "primaryGenre": "Utilities",
+      "featureBannerUrl": "https://placehold.co/1920x1080/f39c12/ffffff?text=Cryptomator",
+      "tagline": "Encrypt Your Cloud.",
+      "description": "Transparent, client-side encryption for your cloud files. Create encrypted 'vaults' in your cloud storage (like Google Drive, Dropbox) and access them securely. Your cloud provider only sees gibberish.",
+      "averageUserRating": 4.9,
+      "userRatingCount": 12543
+    }
+  ]
+}
